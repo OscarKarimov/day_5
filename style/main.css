@@ -1,0 +1,190 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'DM Sans', sans-serif;
+}
+
+.container {
+	width: 1182px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a,
+ul {
+	text-decoration: none;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	padding-top: 40px;
+	margin-bottom: 116px;
+	background: #FFF;
+}
+
+header .header_inner {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+header .header_inner .header_logo {}
+
+header header_inner .header_logo img {
+	width: 146px;
+	height: 52px;
+	object-fit: contain;
+}
+
+header .header_inner .header_item {}
+
+header .header_inner .header_item .links {
+	color: #373737;
+	font-family: Roboto;
+	font-size: 17px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	margin-left: 68px;
+}
+
+header .header_inner .header_item .btn {
+	color: #505050;
+	text-align: center;
+	font-family: Roboto;
+	font-size: 17px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	border-radius: 11px;
+	border: 2px solid #717CFF;
+	padding: 9px 32px;
+	margin-left: 68px;
+}
+
+main {}
+
+.hero {}
+
+.hero_inner {
+	display: flex;
+	justify-content: space-between;
+}
+
+.hero_inner .hero_desc {
+	width: 632px;
+}
+
+.hero_inner .hero_desc .title {
+	color: #2F2F2F;
+	font-family: Roboto;
+	font-size: 56px;
+	font-style: normal;
+	font-weight: 900;
+	line-height: normal;
+	margin-bottom: 15px;
+}
+
+.hero_inner .hero_desc span {
+	color: #717CFF;
+	font-family: Roboto;
+	font-size: 56px;
+	font-style: normal;
+	font-weight: 900;
+	line-height: normal;
+}
+
+.hero_inner .hero_desc .subtitle {
+	color: #7D7D7D;
+	font-family: Roboto;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 38px;
+	margin-bottom: 42px;
+}
+
+.hero_inner .hero_desc .btn {
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 40px;
+	border-radius: 11px;
+	background: #717CFF;
+	padding: 12px 34px;
+}
+
+.hero_inner .hero_icon {}
+
+.hero_inner .hero_icon img {
+	width: 470px;
+	height: 565px;
+	object-fit: contain;
+}
+
+.univer {
+	background: #FAFAFA;
+	
+}
+
+.univer .univer_inner {
+	padding: 57px 116px;
+}
+
+.univer .univer_inner .univer_title {
+	color: #373737;
+	text-align: center;
+	font-family: Roboto;
+	font-size: 23px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	letter-spacing: 2.1px;
+	text-transform: uppercase;
+	margin-bottom: 94px;
+}
+
+.univer .univer_inner .univer_logo {
+	margin-bottom: 102px;
+}
+
+.univer .univer_inner .univer_logo .univer_logo_item {
+	display: flex;
+	justify-content: space-between;
+}
+
+.univer .univer_inner .univer_logo .univer_logo_item .univer_logo_items img {
+	width: 250px;
+	height: 63.953px;
+	object-fit: contain;
+}
+
+.univer .circle_btn {
+	margin-left: auto;
+	margin-right: auto;
+	width: 107px;
+}
+.univer .circle_btn .circle_btn_inner{
+	display: flex;
+	justify-content: space-between;
+}
+.univer .circle_btn .circle_btn_inner .circles.first {
+	width: 14px;
+	height: 14px;
+	background-color: #717CFF;
+	border-radius: 50%;
+}
+
+.univer .circle_btn .circle_btn_inner .circles{
+	width: 11px;
+	height: 11px;
+	background-color: #7C7C7C;
+	border-radius: 50%;
+}
